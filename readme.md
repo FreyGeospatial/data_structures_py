@@ -1,0 +1,1 @@
+This repository will contain code that will, for me, be a personal refresher on Data Structures concepts. I orignally took the class using Java, but this refresher will be based on Python. The structure of this repository will be based on the Udemy course, "Data Structures and Algorithms", found at https://www.udemy.com/course/data-structures-algorithms-python
